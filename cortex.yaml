@@ -1,0 +1,15 @@
+---
+info:
+  title: Egregor Deobfuscation
+  description: Ida Python scripts for partialy deobfuscting Egregor ransomware
+  x-cortex-git:
+    github:
+      alias: minervalabs
+      repository: MinervaLabs/Egregor-Deobfuscation
+  x-cortex-tag: egregor-deobfuscation
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: endpoint-minerva
+openapi: 3.0.1
+servers:
+- url: "/"
