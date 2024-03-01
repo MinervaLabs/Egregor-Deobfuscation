@@ -9,7 +9,7 @@ info:
   x-cortex-tag: egregor-deobfuscation
   x-cortex-type: service
   x-cortex-domain-parents:
-  - tag: endpoint-minerva
+  - tag: endpoint-owls
 openapi: 3.0.1
 servers:
 - url: "/"
