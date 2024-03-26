@@ -1,7 +1,7 @@
 ---
 info:
   title: Egregor Deobfuscation
-  description: Ida Python scripts for partialy deobfuscting Egregor ransomware
+  description: Ida Python scripts for partialy deobfuscting Egregor ransomware.
   x-cortex-git:
     github:
       alias: minervalabs
